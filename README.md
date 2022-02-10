@@ -2,7 +2,7 @@
 
 This is the repository containing the technical assessment for the position of *Lead Web Developer* role at The Barnes Foundation.
 
-Here we have a codebase meant to simulate powering the backend of an Event Mangament Platform -- a common part of a horticultural organization such as The Barnes Foundation and instituions like it. 
+Here we have a codebase meant to simulate powering the backend of an Event Management Platform -- a common part of a horticultural organization such as The Barnes Foundation and instituions like it. 
 
 Your task? To code up a small API that would enable consumers to list available events and ticketing information. 
 Along with that, an endpoint that allows a consumer to place an order of tickets against a particular event.
